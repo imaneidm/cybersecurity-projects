@@ -44,7 +44,10 @@ Ce projet s’inscrit dans une démarche **GRC (Gouvernance, Risques, Conformit�
 
 ## Livrables
 
-- 📄 [Télécharger le rapport de LAB_AD (PDF)](./docs/Rapport_AD_Vulnerable_Lab.pdf)
+Le rapport détaillé est disponible au format PDF :
+
+- 📄 [Consulter le rapport dans le navigateur](docs/Rapport_AD_Vulnerable_Lab.pdf)
+
 ## Compétences démontrées
 
 - Administration et sécurisation d’Active Directory  
