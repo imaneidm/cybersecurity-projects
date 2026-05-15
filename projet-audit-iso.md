@@ -63,7 +63,7 @@ Face à la complexité des référentiels ISO 27001 et ISO 27002, l’apprentiss
 ![Liste des contrôles](./img/listescontroles.png)
 
 ### Connexion par code d’accès  
-![Login par code](./img/loginparcode.png)
+![Login par code](./img/learnAudit.png)
 
 
 ## Captures d’écran – Simulateur d’audit ISO 2700x
