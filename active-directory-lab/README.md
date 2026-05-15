@@ -42,11 +42,11 @@ Ce projet s’inscrit dans une démarche **GRC (Gouvernance, Risques, Conformit�
 | Groupes sensibles | `Domain Admins`, `Enterprise Admins`, `Schema Admins` |
 | Services exposés | LDAP (389, 636), Kerberos (88), SMB (445), DNS (53) |
 
-## Livrables
+## Accès au rapport complet
 
-Le rapport détaillé est disponible au format PDF :
+Le rapport détaillé (80+ pages) est disponible [sur demande] ou dans le dossier `/docs` du dépôt.
 
-- 📄 [Consulter le rapport dans le navigateur](docs/Rapport_AD_Vulnerable_Lab.pdf)
+---
 
 ## Compétences démontrées
 
