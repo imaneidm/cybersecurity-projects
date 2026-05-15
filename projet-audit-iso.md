@@ -51,17 +51,31 @@ Face à la complexité des référentiels ISO 27001 et ISO 27002, l’apprentiss
   - Authentification d’une entreprise (inscription → génération de code à 6 chiffres → validation → accès au tableau de bord).
   - Évaluation d’un contrôle par l’auditeur (sélection du contrôle → statut → justification → évaluation des risques → sauvegarde).
 
-## Captures d’écran (à compléter)
+## Captures d’écran
+
+### Page d’accueil du simulateur  
+![Accueil](./img/accueil.png)
+
+### Tableau de bord  
+![Dashboard](./img/dashboard.png)
+
+### Liste des contrôles ISO 27002  
+![Liste des contrôles](./img/listes_controles.png)
+
+### Connexion par code d’accès  
+![Login par code](./img/login_par_code.png)
+
+
+## Captures d’écran – Simulateur d’audit ISO 2700x
 
 | Page | Description |
 |------|-------------|
-| `home.png` | Page d’accueil avec slogan « La santé réinventée » (adapté du cas pharmaceutique) |
-| `dashboard_auditeur.png` | Tableau de bord de l’auditeur avec la liste des entreprises et les scores de conformité |
-| `evaluation_control.png` | Formulaire d’évaluation d’un contrôle ISO 27002 |
-| `rapport_pdf.png` | Exemple de rapport d’audit exporté au format PDF |
+| `auditeuracceuil.png` | Page d’accueil du simulateur – offre un aperçu général, les entreprises disponibles à auditer, la progression globale et un accès rapide (contrôles, tableau de bord, rapport). Deux vues : auditeur et entreprise. |
+| `loginparcode.png` | Authentification – choix du rôle (auditeur / entreprise), connexion par email/mot de passe ou par code d’accès (généré à l’inscription). Sécurisation par JWT. |
+| `dashboard.png` | Dashboard de l’auditeur – synthèse des audits en cours : score global, progression, répartition des contrôles (conformes, partiellement conformes, non conformes), informations de l’entreprise auditée. |
+| `listescontroles.png` | Liste des contrôles ISO 27002 – affichage des 45 contrôles (code, titre, catégorie, indicateur de conformité). Filtres, recherche et accès au détail de chaque contrôle. |
 
-> *Les captures d’écran réelles seront ajoutées ultérieurement. Vous pouvez insérer vos propres images dans le dossier `img/` du dépôt.*
-
+> *Les captures d’écran ci‑dessus sont issues de l’application réelle. Les images sont stockées dans le dossier `img/` du dépôt.*
 ## Résultats et apprentissages
 
 - **Application fonctionnelle** : simulateur testé sur 3 scénarios d’entreprise (PME de services, e‑commerce, startup).
