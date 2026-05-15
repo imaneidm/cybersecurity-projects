@@ -54,16 +54,16 @@ Face à la complexité des référentiels ISO 27001 et ISO 27002, l’apprentiss
 ## Captures d’écran
 
 ### Page d’accueil du simulateur  
-![Accueil](./img/accueil.png)
+![Accueil](img/auditeuracceuil.png)
 
 ### Tableau de bord  
 ![Dashboard](./img/dashboard.png)
 
 ### Liste des contrôles ISO 27002  
-![Liste des contrôles](./img/listes_controles.png)
+![Liste des contrôles](./img/listescontroles.png)
 
 ### Connexion par code d’accès  
-![Login par code](./img/login_par_code.png)
+![Login par code](./img/loginparcode.png)
 
 
 ## Captures d’écran – Simulateur d’audit ISO 2700x
