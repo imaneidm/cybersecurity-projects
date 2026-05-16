@@ -62,11 +62,11 @@ Générateur Node.js → Logstash → Elasticsearch → Kibana Dashboard
 
 | Composant | Aperçu |
 |-----------|--------|
-| **Dashboard complet** | ![Dashboard](.github/dashboardcomplet.png) |
-| **Activité par niveau (line chart)** | ![Activité](.github/activiterlevel.png) |
-| **Top 5 utilisateurs** | ![Top users](.github/top5user.png) |
-| **Logs bruts (Discover)** | ![Discover](.github/logkibana.png) |
-| **Génération des logs (terminal)** | ![Terminal](.github/generatelogs.png) |
+| **Dashboard complet** | ![Dashboard](https://.github/dashboardcomplet.png) |
+| **Activité par niveau (line chart)** | ![Activité](https://.github/activiterlevel.png) |
+| **Top 5 utilisateurs** | ![Top users](https://.github/top5user.png) |
+| **Logs bruts (Discover)** | ![Discover](https://.github/logkibana.png) |
+| **Génération des logs (terminal)** | ![Terminal](https://.github/generatelogs.png) |
 
 ## 🔍 Exemple de détection d’anomalies
 Le système peut détecter :
